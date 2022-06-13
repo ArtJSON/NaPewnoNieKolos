@@ -31,3 +31,5 @@
 *.out
 *.app
 .vs/
+Kolos/x64/
+x64/
